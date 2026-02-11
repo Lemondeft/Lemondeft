@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Lemondeft 👋<br><br> 🎓 Currently Learning<br>- **Python** - Expanding beyond web development and leaning towards ML<br>- **MySQL** - Database design and management<br>- **Front-end development** with React and TypeScript<br><br>**Environment:**<br>- **OS:** Fedora Linux KDE 43.
+# Hi there, I'm Lemondeft 👋<br><br> 🎓 Currently Learning<br>- **Python** - Expanding beyond web development and leaning towards ML<br>- **PHP** - Database design and management<br>- **Front-end development** with React and TypeScript<br><br>**Environment:**<br>- **OS:** Fedora Linux KDE 43.
 
 
 # 💻 Tech Stack:
