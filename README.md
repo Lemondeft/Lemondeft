@@ -15,7 +15,7 @@ Hi there, I'm **Lemondeft** 👋
 ## 🖥️ Environment
 
 <!-- OS badge — swap version number here if it changes -->
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=white)
 
 ---
 
