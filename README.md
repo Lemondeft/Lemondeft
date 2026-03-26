@@ -31,7 +31,6 @@ Hi there, I'm **Lemondeft** 👋
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🔝 Stats
 
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Lemondeft&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?lemondeft=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
