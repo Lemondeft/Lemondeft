@@ -33,4 +33,4 @@ Hi there, I'm **Lemondeft** 👋
 
 ## 🔝 Stats
 
-![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lemondeft&show_icons=true)
+![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lemondeft&show_icons=true&theme=tokyonight)
