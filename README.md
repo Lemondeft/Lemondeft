@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi there, I'm **Lemondeft** 👋
+Hi there, I'm **Lemondeft** 👋. I'm a High School student specifically Vocational High School. I study Computer Science and have interest in Fullstack.
 
 ---
 
