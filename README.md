@@ -9,6 +9,7 @@ Hi there, I'm **Lemondeft** 👋
 - **Python** — Expanding beyond web dev, leaning towards ML
 - **PHP** — Database design and management
 - **Front-end development** with React and TypeScript
+- **Back-end development** with Nextjs, Prisma and PostgreSQL
 
 ---
 
