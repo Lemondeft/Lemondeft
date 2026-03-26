@@ -33,4 +33,4 @@ Hi there, I'm **Lemondeft** 👋
 
 ## 🔝 Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?lemondeft=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemondeft)
