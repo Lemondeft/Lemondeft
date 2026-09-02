@@ -6,8 +6,8 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 
 ## 🛠️ What I'm Working On
 
-- 🤖 **[lemondeft/wa-bot](https://github.com/lemondeft/wa-bot)** — WhatsApp automation bot built with JavaScript/TypeScript.
-- ✍️ **[lemondeft/my-blog](https://github.com/lemondeft/my-blog)** — Personal developer blog built using Next.js & React.
+- 🤖 **[lemondeft/wa-bot](https://github.com/lemondeft/wa-bot)** — WhatsApp automation bot built with TypeScript.
+- ✍️ **[lemondeft/my-blog](https://github.com/lemondeft/my-blog)** — Personal developer blog.
 
 ---
 
@@ -44,7 +44,7 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 ## 🔝 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemondeft&show_icons=true&theme=tokyonight&count_private=true" alt="Lemondeft GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=lemondeft&theme=tokyonight&hide_border=false" alt="Lemondeft GitHub Streak" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemondeft&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
