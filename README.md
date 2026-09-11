@@ -38,15 +38,15 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ## 🔝 GitHub Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=lemondeft&theme=tokyonight&hide_border=false" alt="Lemondeft GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemondeft&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemondeft&theme=tokyonight&hide_border=false" alt="Lemondeft GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lemondeft&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
 ---
