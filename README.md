@@ -1,3 +1,5 @@
+![Banner](./assets/banner.png)
+
 # 💫 About Me
 
 Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying Computer Science with a strong focus on Fullstack development and an evolving interest in Machine Learning.
