@@ -46,7 +46,7 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemondeft&theme=tokyonight&hide_border=false" alt="Lemondeft GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lemondeft&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lemondeft&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
 ---
