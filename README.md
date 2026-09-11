@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=200&section=header&text=Lemondeft&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18)
 
 # 💫 About Me
 
