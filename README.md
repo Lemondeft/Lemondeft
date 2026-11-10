@@ -8,23 +8,25 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 
 ## 🛠️ What I'm Working On
 
-- 🤖 **[lemondeft/wa-bot](https://github.com/lemondeft/wa-bot)** — WhatsApp automation bot built with TypeScript.
+- 🤖 **[lemondeft/wa-bot](https://github.com/lemondeft/wa-bot)** — WhatsApp AI bot built with TypeScript.
 - ✍️ **[lemondeft/my-blog](https://github.com/lemondeft/my-blog)** — Personal developer blog.
 
 ---
 
 ## 🎓 Currently Learning
 
-- **Python** — Expanding beyond web development toward Machine Learning
-- **PHP** — Database design, architecture, and relational data management
-- **Front-end** — Modern web UI development with React and TypeScript
-- **Back-end** — Full-stack architectures using Next.js, Prisma, and PostgreSQL
+- **TypeScript** — Modern web development with React and Next.js
+- **Python** — Expanding toward Machine Learning
+- **PHP** — Database design and relational data management
+- **Front-end** — React and TypeScript
+- **Back-end** — Next.js, Prisma, and PostgreSQL
 
 ---
 
 ## 🖥️ Environment
 
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-Wayland-blue?style=for-the-badge)
 
 ---
 
