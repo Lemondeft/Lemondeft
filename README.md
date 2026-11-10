@@ -68,3 +68,4 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/699924273040719955)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lemondeft)
+
