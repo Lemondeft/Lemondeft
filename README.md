@@ -58,8 +58,8 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 ## 🔝 GitHub Stats
 
 <p align="center">
-  <img src="https://gh-readme-stats-nine-azure.vercel.app/api?username=lemondeft&show_icons=true&theme=tokyonight" alt="Lemondeft's GitHub stats" />
-  <img src="https://gh-readme-stats-nine-azure.vercel.app/api/top-langs/?username=lemondeft&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://gh-readme-stats-nine-azure.vercel.app/api?username=lemondeft&show_icons=true&theme=tokyonight&text_color=ffffff&title_color=7AA2F7&icon_color=7AA2F7&bg_color=1A1B26&border_color=334155" alt="Lemondeft's GitHub stats" />
+  <img src="https://gh-readme-stats-nine-azure.vercel.app/api/top-langs/?username=lemondeft&layout=compact&theme=tokyonight&text_color=ffffff&title_color=7AA2F7&icon_color=7AA2F7&bg_color=1A1B26&border_color=334155" alt="Top languages" />
 </p>
 
 ---
