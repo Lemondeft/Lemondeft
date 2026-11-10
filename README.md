@@ -30,6 +30,11 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 
 ---
 
+### Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-Wayland-blue?style=for-the-badge)
+
 ## 💻 Tech Stack
 
 ### Languages & Core
@@ -41,8 +46,12 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 ### Frameworks & Databases
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%232A3239.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/openai-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Baileys](https://img.shields.io/badge/baileys-whatsapp-green?style=for-the-badge)
 
 ---
 
