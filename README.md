@@ -58,7 +58,8 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 ## 🔝 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemondeft&theme=tokyonight&hide_border=false" alt="Lemondeft GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lemondeft&show_icons=true&theme=tokyonight" alt="Lemondeft's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemondeft&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
