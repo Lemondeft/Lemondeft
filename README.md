@@ -1,75 +1,51 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=200&section=header&text=Lemondeft&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=200&section=header&text=Lemondeft&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20%26%20Mobile%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=18)
 
-# 💫 About Me
+## 💫 About Me
 
-Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying Computer Science with a strong focus on Fullstack & Mobile development (**Flutter** & **Supabase**), **bot & workflow automation** (especially with **Baileys**), and an evolving interest in Machine Learning.
+Hi, I'm **Lemondeft** 👋
 
----
+I'm a Computer Science vocational high school student from Indonesia interested in building software, exploring systems, and understanding how technology works.
 
-## 🛠️ What I'm Working On
-
-- 🤖 **[lemondeft/wa-bot](https://github.com/lemondeft/wa-bot)** — Automated WhatsApp AI bot built with TypeScript and Baileys.
-- ✍️ **[lemondeft/my-blog](https://github.com/lemondeft/my-blog)** — Personal developer blog.
-- 🛠️ **[lemondeft/pacer](https://github.com/lemondeft/pacer)** — Pacer running Strava like app.
+My primary focus is **fullstack development with TypeScript**, alongside mobile development with **Flutter** and backend services with **Supabase**. I also enjoy building **automation tools with Baileys** and exploring AI integrations and machine learning.
 
 ---
 
-## 🎓 Currently Learning
+## 🛠️ Featured Projects
 
-- **TypeScript** — Modern web development with React and Next.js
-- **Python** — Expanding toward Machine Learning
-- **PHP** — Database design and relational data management
-- **Front-end** — React and TypeScript
-- **Back-end** — Next.js, Prisma, and PostgreSQL
-- **Mobile** — Cross-platform app development with Flutter, Dart, and Supabase
-- **Automation** — Building automated WhatsApp bots and event-driven workflows with Baileys and Node.js
+### 🤖 [lemondeft/wa-bot](https://github.com/lemondeft/wa-bot) `Active`
+An event-driven WhatsApp automation bot designed to handle custom command workflows and automated conversational responses via LLM integration.
+- **Stack:** TypeScript, Node.js, Baileys, LLM API
+- **Focus:** Session persistence, message event handling, and modular command routing.
+
+### 🏃 [lemondeft/pacer](https://github.com/lemondeft/pacer) `In Development`
+A Strava-inspired mobile running platform focused on activity tracking, route logging, and post-run performance insights.
+- **Stack:** Flutter, Dart, Supabase, PostgreSQL
+- **Focus:** Cross-platform mobile UI, real-time data sync, and relational activity schemas.
+
+### ✍️ [lemondeft/my-blog](https://github.com/lemondeft/my-blog) `Active`
+A personal developer blog built for publishing technical write-ups, system notes, and project breakdowns.
+- **Stack:** Next.js, TypeScript, Tailwind CSS
+- **Focus:** Clean typography, fast static/SSR rendering, and Markdown content workflows.
 
 ---
-
-## 🖥️ Environment
-
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-Wayland-blue?style=for-the-badge)
-
----
-
-### Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-Wayland-blue?style=for-the-badge)
 
 ## 💻 Tech Stack
 
-### Languages & Core
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+| Proficiency | Technologies |
+| :--- | :--- |
+| **Comfortable** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Baileys](https://img.shields.io/badge/Baileys-25D366?style=flat-square&logo=whatsapp&logoColor=white) |
+| **Working Knowledge** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Exploring** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
-### Frameworks & Databases
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-%232A3239.svg?style=for-the-badge&logo=prisma&logoColor=white)
+---
 
-### Automation & Bots
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Baileys](https://img.shields.io/badge/baileys-whatsapp-green?style=for-the-badge)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+## 🖥️ Development Environment
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-%23757575.svg?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-Wayland-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
