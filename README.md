@@ -10,6 +10,7 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 
 - 🤖 **[lemondeft/wa-bot](https://github.com/lemondeft/wa-bot)** — WhatsApp AI bot built with TypeScript.
 - ✍️ **[lemondeft/my-blog](https://github.com/lemondeft/my-blog)** — Personal developer blog.
+- 🛠️ **[lemondeft/pacer](https://github.com/lemondeft/pacer)** — Pacer running Strava like app.
 
 ---
 
