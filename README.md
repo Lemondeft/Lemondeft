@@ -65,7 +65,7 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/openai-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
-### Mobile Development (Flutter & Friends)
+### Mobile Development
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-%23757575.svg?style=for-the-badge&logo=materialdesign&logoColor=white)
