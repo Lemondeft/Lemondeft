@@ -2,13 +2,13 @@
 
 # 💫 About Me
 
-Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying Computer Science with a strong focus on Fullstack & Mobile development (**Flutter**) and an evolving interest in Machine Learning.
+Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying Computer Science with a strong focus on Fullstack & Mobile development (**Flutter** & **Supabase**), **bot & workflow automation** (especially with **Baileys**), and an evolving interest in Machine Learning.
 
 ---
 
 ## 🛠️ What I'm Working On
 
-- 🤖 **[lemondeft/wa-bot](https://github.com/lemondeft/wa-bot)** — WhatsApp AI bot built with TypeScript.
+- 🤖 **[lemondeft/wa-bot](https://github.com/lemondeft/wa-bot)** — Automated WhatsApp AI bot built with TypeScript and Baileys.
 - ✍️ **[lemondeft/my-blog](https://github.com/lemondeft/my-blog)** — Personal developer blog.
 - 🛠️ **[lemondeft/pacer](https://github.com/lemondeft/pacer)** — Pacer running Strava like app.
 
@@ -21,7 +21,8 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 - **PHP** — Database design and relational data management
 - **Front-end** — React and TypeScript
 - **Back-end** — Next.js, Prisma, and PostgreSQL
-- **Mobile** — Cross-platform app development with Flutter, Dart, Riverpod, and Firebase
+- **Mobile** — Cross-platform app development with Flutter, Dart, and Supabase
+- **Automation** — Building automated WhatsApp bots and event-driven workflows with Baileys and Node.js
 
 ---
 
@@ -56,15 +57,17 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-%232A3239.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+### Automation & Bots
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Baileys](https://img.shields.io/badge/baileys-whatsapp-green?style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![OpenAI](https://img.shields.io/badge/openai-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Mobile Development (Flutter & Friends)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-%232D8CFF.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-%2300D2B8.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-%23757575.svg?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
