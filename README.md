@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying Computer Science with a strong focus on Fullstack development and an evolving interest in Machine Learning.
+Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying Computer Science with a strong focus on Fullstack & Mobile development (**Flutter**) and an evolving interest in Machine Learning.
 
 ---
 
@@ -21,6 +21,7 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 - **PHP** — Database design and relational data management
 - **Front-end** — React and TypeScript
 - **Back-end** — Next.js, Prisma, and PostgreSQL
+- **Mobile** — Cross-platform app development with Flutter, Dart, Riverpod, and Firebase
 
 ---
 
@@ -34,6 +35,8 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 ### Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-Wayland-blue?style=for-the-badge)
 
 ## 💻 Tech Stack
@@ -53,10 +56,17 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-%232A3239.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/openai-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Baileys](https://img.shields.io/badge/baileys-whatsapp-green?style=for-the-badge)
+
+### Mobile Development (Flutter & Friends)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-%232D8CFF.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-%2300D2B8.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-%23757575.svg?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -73,4 +83,3 @@ Hi there, I'm **Lemondeft** 👋. I'm a Vocational High School student studying 
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/699924273040719955)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lemondeft)
-
